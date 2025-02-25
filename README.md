@@ -15,4 +15,4 @@ can be calculated as:
 int b = inverseKey(m, a)
 ```
 
-Not however that this function is merely a showcase and not a class which can be directly imported.
+Note however that this function is merely a showcase and not a class which can be directly imported.
