@@ -5,9 +5,7 @@ This algorithm finds common use in the cryptographic algorithm RSA.
 
 The value of b in the following equation
 
-\[
-a \cdot b \equiv 1 \mod m
-\]
+a * b ≡ 1 (mod m)
 
 can be calculated as:
 
